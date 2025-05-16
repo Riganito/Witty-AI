@@ -14,7 +14,7 @@ Ces tâches répétitives de prospection réduisent considérablement leur effic
 
 
 
-# Comment fonctionne Witty
+## Comment fonctionne Witty
 
 1. **Recherche d'entreprises ciblée**
 Witty analyse plusieurs bases de données pour identifier les entreprises les plus pertinentes selon vos critères spécifiques (accès privilégié à une base de 210 millions de contacts et plus de 500 millions d'entreprises).
@@ -91,7 +91,7 @@ Witty exploite la puissance de LinkedIn en automatisant intelligemment les inter
 
 
 
-# Conformité RGPD et sécurité des données
+## Conformité RGPD et sécurité des données
 
 Witty accorde une importance capitale à la conformité légale et à la protection des données :
 
@@ -102,7 +102,7 @@ Witty accorde une importance capitale à la conformité légale et à la protect
 
 
 
-# Tâches automatisées
+## Tâches automatisées
 
 - Recherche et qualification d'entreprises
 - Recherche et qualification de leads
@@ -113,7 +113,7 @@ Witty accorde une importance capitale à la conformité légale et à la protect
 
 
 
-# Résultats
+## Résultats
 
 - **Gain de temps massif** : jusqu'à 4h économisées par jour pour vos équipes
 - **Autonomie totale** : Disponible 24/24, 7 jours sur 7 (hors validation des actions en mode semi-auto)
@@ -125,14 +125,13 @@ Witty accorde une importance capitale à la conformité légale et à la protect
 
 
 
-# Modèle Économique
+## Modèle Économique
 
 - **Démo de 3 mois** : 850€ HT/mois (soit 2 550€ HT sur la totalité)
 - **Engagement de 12 mois** : 750€ HT/mois (9 000€ HT par an)
 
 Un Witty inclut un profil client idéal (ICP) et peut ajouter jusqu'à 1 000 leads qualifiés par mois dans votre CRM.
 
-**Cross-selling**
 - **Ajouts de profils ICP** : 1 280€ HT par ICP additionnel
 - **Intégration CRM sur-mesure** : à partir de 480€ HT (selon le CRM utilisé)
 
@@ -148,7 +147,7 @@ Un Witty inclut un profil client idéal (ICP) et peut ajouter jusqu'à 1 000 lea
 
 
 
-# Équipe
+## Équipe
 
 - **[Ilann Joaquim](https://github.com/ilannjoaquim)** — Chief Technology Officer and Founder
 - **[Quentin Courtin](https://github.com/q-klug)** — Business Development
@@ -156,19 +155,19 @@ Un Witty inclut un profil client idéal (ICP) et peut ajouter jusqu'à 1 000 lea
 
 
 
-# Contact
+## Contact
 
 - **[Site Web](https://becomewitty.ai/fr/)**
 - **[LinkedIn](https://linkedin.com/company/become-witty)**
 
 
 
-# Informations Légales
+## Informations Légales
 
 Witty est une marque déposée, détenue et exploitée par Nomnomgames, Lda.
 
 
 
-# Tags SEO
+## Tags SEO
 
 `#AI` `#IA` `#AISDR` `#Automatisation` `#Prospection` `#LeadGeneration` `#Emailing` `#AgentIA` `#AssistantIA` `#Technologie` `#Sales` `#Optimisation` `#Logiciel` `#ColdCall`
