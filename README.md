@@ -8,6 +8,7 @@ Witty est un agent commercial 100% autonome conçu pour optimiser chaque étape 
 ## Problématique
 
 > "Les commerciaux passent 70% de leur temps sur des tâches non liées à la vente."
+> 
 > *Salesforce - State of Sales, 6th Edition*
 
 Ces tâches répétitives de prospection réduisent considérablement leur efficacité et leur performance.
