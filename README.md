@@ -160,7 +160,7 @@ Un Witty inclut un profil client idéal (ICP) et peut ajouter jusqu'à 1 000 lea
 - **[Site Web](https://becomewitty.ai/fr/)**
 - **[LinkedIn](https://linkedin.com/company/become-witty)**
 
---
+
 
 ## Tags SEO
 
