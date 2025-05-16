@@ -18,6 +18,7 @@ Ces tâches répétitives de prospection réduisent considérablement leur effic
 ## Comment fonctionne Witty
 
 1. **Recherche d'entreprises ciblée**
+
 Witty analyse plusieurs bases de données pour identifier les entreprises les plus pertinentes selon vos critères spécifiques (accès privilégié à une base de 210 millions de contacts et plus de 500 millions d'entreprises).
 Grâce à l'analyse intelligente et au scoring des entreprises, Witty identifie les opportunités les plus pertinentes en s'appuyant sur des millions de données. 
 
@@ -28,6 +29,7 @@ Grâce à l'analyse intelligente et au scoring des entreprises, Witty identifie 
 
 
 2. **Scoring Intelligent**
+
 Witty évalue et priorise les entreprises selon leur pertinence pour votre activité :
 
 - Système de scoring multicritère propriétaire
@@ -37,6 +39,7 @@ Witty évalue et priorise les entreprises selon leur pertinence pour votre activ
 
 
 3. **Analyse Complète et enrichissement**
+
 Pour chaque entreprise ciblée, Witty construit un profil complet et enrichi :
 
 - Consolidation des données publiques disponibles
@@ -46,6 +49,7 @@ Pour chaque entreprise ciblée, Witty construit un profil complet et enrichi :
 
 
 4. **Leads qualifiés avec insights stratégiques**
+
 Witty identifie les décideurs clés et collecte des informations stratégiques :
 
 - Identification précise des décideurs et leur niveau d'influence
@@ -59,6 +63,7 @@ Entre 25% et 60% des leads incluent des numéros de téléphone mobile (varie se
 
 
 5. **Prospection Personnalisée multicanal**
+
 L'envoi d'emails automatisés est personnalisé selon le profil DISC et les données collectées :
 
 - Adaptation du ton et style selon le profil du destinataire
@@ -70,6 +75,7 @@ Les messages sont soumis à validation avant envoi pour garantir la qualité des
 
 
 6. **Planification intelligente des RDV**
+
 Witty automatise entièrement le processus de planification :
 
 - Synchronisation avec votre calendrier
@@ -80,6 +86,7 @@ Witty automatise entièrement le processus de planification :
 
 
 7. **Optimisation LinkedIn intégrée**
+
 Witty exploite la puissance de LinkedIn en automatisant intelligemment les interactions :
 
 - Automatisation des demandes de connexion ciblées
@@ -88,7 +95,7 @@ Witty exploite la puissance de LinkedIn en automatisant intelligemment les inter
 - Respect des limites de la plateforme
 - Centralisation des messages dans votre espace dédié
 
-**Nouveau** : WhatsApp bientôt disponible pour créer des conversations encore plus humaines
+**Nouveau** : WhatsApp bientôt disponible pour créer des conversations encore plus humaines.
 
 
 
