@@ -1,5 +1,5 @@
 # Witty-AI
-Witty is an AI Sales Agent designed to optimize every step of prospecting. It relieves your salespeople from time-consuming tasks so they can focus on what's essential: CLOSING DEALS!
+Witty is an AI Sales Agent designed to optimize every step of prospecting. It relieves your sales teams from time-consuming tasks so they can focus on what's essential: CLOSING DEALS!
 
 Being Witty means being smarter, faster, more impactful.
 
