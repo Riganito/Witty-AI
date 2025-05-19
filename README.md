@@ -1,161 +1,160 @@
 # Witty-AI
-Witty est un agent commercial 100% autonome conçu pour optimiser chaque étape de la prospection. Il soulage vos commerciaux des tâches chronophages pour qu'ils se concentrent sur l'essentiel : VENDRE !
+Witty is an AI Sales Agent designed to optimize every step of prospecting. It relieves your salespeople from time-consuming tasks so they can focus on what's essential: CLOSING DEALS!
 
-Être Witty, c'est être plus malin, plus rapide, plus percutant.
+Being Witty means being smarter, faster, more impactful.
 
 
 
-## Problématique
+## Problem
 
-> "Les commerciaux passent 70% de leur temps sur des tâches non liées à la vente."
+> “Sales teams spend 70% of their time on non-selling tasks.”
 > 
 > *Salesforce - State of Sales, 6th Edition*
 
-Ces tâches répétitives de prospection réduisent considérablement leur efficacité et leur performance.
+These repetitive prospecting tasks significantly reduce their efficiency and performance.
 
 
 
-## Comment fonctionne Witty
+## How Witty Works
 
-1. **Recherche d'entreprises ciblée**
+1. **Targeted Company Research**
 
-Witty analyse plusieurs bases de données pour identifier les entreprises les plus pertinentes selon vos critères spécifiques (accès privilégié à une base de 210 millions de contacts et plus de 500 millions d'entreprises).
-Grâce à l'analyse intelligente et au scoring des entreprises, Witty identifie les opportunités les plus pertinentes en s'appuyant sur des millions de données. 
+Witty analyzes multiple databases to identify the most relevant companies according to your specific criteria (privileged access to a database of 210 million contacts and over 500 million companies).
+Thanks to intelligent analysis and company scoring, Witty identifies the most relevant opportunities by leveraging millions of data points.
 
-- Analyse approfondie de votre marché et offre
-- Identification de votre profil client idéal (ICP)
-- Détection des signaux d'achat et d'intention
-- Comparaison avec votre base clients existante
-
-
-2. **Scoring Intelligent**
-
-Witty évalue et priorise les entreprises selon leur pertinence pour votre activité :
-
-- Système de scoring multicritère propriétaire
-- Notation détaillée avec explication des scores
-- Intégration fluide dans votre interface
-- Mise à jour continue des données
+- In-depth analysis of your market and offer
+- Identification of your ideal customer profile (ICP)
+- Detection of buying signals and intent
+- Comparison with your existing customer base
 
 
-3. **Analyse Complète et enrichissement**
+2. **Intelligent Scoring**
 
-Pour chaque entreprise ciblée, Witty construit un profil complet et enrichi :
+Witty evaluates and prioritizes companies based on their relevance to your business:
 
-- Consolidation des données publiques disponibles
-- Analyse des actualités récentes
-- Évaluation de la présence en ligne
-- Centralisation des informations dans votre espace dédié
-
-
-4. **Leads qualifiés avec insights stratégiques**
-
-Witty identifie les décideurs clés et collecte des informations stratégiques :
-
-- Identification précise des décideurs et leur niveau d'influence
-- Cartographie du parcours professionnel
-- Analyse comportementale et détermination du profil DISC
-- Veille sur les actualités professionnelles
-
-Entre 25% et 60% des leads incluent des numéros de téléphone mobile (varie selon les secteurs d'activité et les postes des décideurs)
-
-**Chaque lead est enrichi avec des informations précises, permettant aux commerciaux de démarrer leurs sessions de cold calling avec un véritable avantage stratégique.**
+- Proprietary multi-criteria scoring system
+- Detailed scoring with score explanation
+- Seamless integration into your interface
+- Continuous data updates
 
 
-5. **Prospection Personnalisée multicanal**
+3. **Complete Analysis and Enrichment**
 
-L'envoi d'emails automatisés est personnalisé selon le profil DISC et les données collectées :
+For each targeted company, Witty builds a complete and enriched profile:
 
-- Adaptation du ton et style selon le profil du destinataire
-- Référence contextuelle aux informations pertinentes
-- Séquences d'emails intelligentes adaptatives avec emails de suivi
-
-**Un mode semi-auto est applicable = vous gardez le contrôle**
-Les messages sont soumis à validation avant envoi pour garantir la qualité des échanges. Vos équipes n'ont plus qu'à valider ou ajuster avant envoi depuis l'espace dédié.
+- Consolidation of available public data
+- Analysis of recent news
+- Evaluation of online presence
+- Centralization of information in your dedicated space
 
 
-6. **Planification intelligente des RDV**
+4. **ualified Leads with Strategic Insights**
 
-Witty automatise entièrement le processus de planification :
+Witty identifies key decision-makers and collects strategic information:
 
-- Synchronisation avec votre calendrier
-- Détection des créneaux optimaux
-- Proposition automatique de disponibilités
-- Gestion des confirmations et rappels
-- Suivi proactif pour minimiser les absences (à confirmer)
+- Precise identification of decision-makers and their level of influence
+- Mapping of professional background
+- Behavioral analysis and DISC profile determination
+- Monitoring of professional news
 
+Between 25% and 60% of leads include mobile phone numbers (varies by industry and decision-maker positions)
 
-7. **Optimisation LinkedIn intégrée**
-
-Witty exploite la puissance de LinkedIn en automatisant intelligemment les interactions :
-
-- Automatisation des demandes de connexion ciblées
-- Personnalisation des messages
-- Séquences d'engagement progressives
-- Respect des limites de la plateforme
-- Centralisation des messages dans votre espace dédié
-
-**Nouveau** : WhatsApp bientôt disponible pour créer des conversations encore plus humaines.
+**Each lead is enriched with precise information, allowing sales teams to start their cold calling sessions with a real strategic advantage.**
 
 
+5. **Personalized Multichannel Prospecting**
 
-## Conformité RGPD et sécurité des données
+Automated email sending is personalized according to DISC profile and collected data:
 
-Witty accorde une importance capitale à la conformité légale et à la protection des données :
+- Adaptation of tone and style according to recipient's profile
+- Contextual reference to relevant information
+- Intelligent adaptive email sequences with follow-up emails
 
-- Collecte de données exclusivement auprès de fournisseurs conformes RGPD (Pappers, Apollo.io, Kaspr, etc.)
-- Traitement des données limité aux finalités commerciales légitimes (B2B)
-- Stockage sécurisé avec chiffrement
-- Respect des droits d'accès, de rectification et d'effacement
+**A semi-auto mode is applicable = you maintain control**
+Messages are submitted for validation before sending to ensure quality of exchanges. Your teams simply need to validate or adjust before sending from the dedicated space.
+
+
+6. **Meeting Scheduling**
+
+Witty fully automates the scheduling process:
+
+- Synchronization with your calendar
+- Detection of optimal time slots
+- Automatic proposal of availabilities
+- Management of confirmations and reminders
+
+
+7. **Integrated LinkedIn Optimization**
+
+Witty harnesses the power of LinkedIn by intelligently automating interactions:
+
+Automation of targeted connection requests
+Message personalization
+Progressive engagement sequences
+Respect for platform limitations
+Centralization of messages in your dedicated space
+
+**New**: WhatsApp soon available to create even more human conversations.
 
 
 
-## Tâches automatisées
+## GDPR Compliance and Data Security
 
-- Recherche et qualification d'entreprises
-- Recherche et qualification de leads
-- Rédaction d'emails & suivi
-- Optimisation de votre LinkedIn
-- Planification des rendez-vous
-- Mise à jour de l'espace dédié en temps réel
+Witty places paramount importance on legal compliance and data protection:
 
-
-
-## Résultats
-
-- **Gain de temps massif** : jusqu'à 4h économisées par jour pour vos équipes
-- **Autonomie totale** : Disponible 24/24, 7 jours sur 7 (hors validation des actions en mode semi-auto)
-- **Prospection ultra-ciblée** : Analyse de millions de données pour identifier vos meilleurs prospects
-- **Personnalisation avancée** : Messages adaptés selon le profil DISC et données enrichies
-- **Centralisation des outils** : Remplace plusieurs solutions SaaS (Lemlist, Apollo, Kaspr...)
-- **Scalabilité** : Jusqu'à 1000 leads qualifiés par mois
-- **Plateforme intuitive** : Suivez facilement les actions de votre Witty
+- Data collection exclusively from GDPR-compliant providers (Pappers, Apollo.io, Kaspr, etc.)
+- Data processing limited to legitimate business purposes (B2B)
+- Secure storage with encryption
+- Respect for rights of access, rectification, and deletion
 
 
 
-## Modèle Économique
+## Automated Tasks
 
-- **Démo de 3 mois** : 850€ HT/mois (soit 2 550€ HT sur la totalité)
-- **Engagement de 12 mois** : 750€ HT/mois (9 000€ HT par an)
-
-Un Witty inclut un profil client idéal (ICP) et peut ajouter jusqu'à 1 000 leads qualifiés par mois dans votre CRM.
-
-- **Ajouts de profils ICP** : 1 280€ HT par ICP additionnel
-- **Intégration CRM sur-mesure** : à partir de 480€ HT (selon le CRM utilisé)
-
-
-
-## Mise en place
-
-- **Onboarding personnalisé** : Après signature, nous vous envoyons un formulaire détaillé puis organisons une session d'onboarding pour définir précisément votre ICP et votre persona. Délai de mise en place : 10 jours ouvrés.
-
-- **Espace dédié** : Nous créons un espace personnalisé (comparable à un Excel) où vous pouvez suivre toutes les actions de Witty en temps réel. Accessible par toute votre équipe commerciale (quel que soit le nombre de commerciaux). La plateforme est adaptée et mise à jour selon vos besoins. Visibilité complète sur votre pipeline commercial.
-
-- **Démarrage autonome** : Une fois configuré, Witty fonctionne sans intervention humaine et commence à générer des leads qualifiés.
+- Company research and qualification
+- Lead research and qualification
+- Email writing & follow-up
+- LinkedIn optimization
+- Meeting scheduling
+- Real-time updates
 
 
 
-## Équipe
+## Results
+
+- **Massive time savings**: Up to 4 hours saved per day for your teams
+- **Total autonomy**:  Available 24/7 (excluding action validation in semi-auto mode)
+- **Ultra-targeted prospecting**: Analysis of millions of data points to identify your best prospects
+- **Advanced personalization**: Messages adapted according to DISC profile and enriched data
+- **Tool centralization**: Replaces multiple SaaS solutions (Lemlist, Apollo, Kaspr...)
+- **Scalability**: Up to 1000 qualified leads per month
+- **Intuitive platfor**m: Easily track your Witty's actions
+
+
+
+## Business Model
+
+- **3-month demo**: €850/month (total of €2,550)
+- **Annual contract**: €750/month (€9,000 per year)
+
+One Witty includes an ideal customer profile (ICP) and can add up to 1,000 qualified leads per month to your CRM.
+
+- **Additional ICP profile**s: €1,280 per additional ICP
+- **Custom CRM integration**: starting from €480 (depending on the CRM used)
+
+
+
+## Implementation
+
+- **Personalized onboarding**: After signing, we send you a detailed form and organize an onboarding session to precisely define your ICP and persona. Up and running in just 10 business days.
+
+- **Dedicated space**: We create a personalized space (comparable to Excel) where you can track all of Witty's actions in real-time. Accessible by your entire sales team (regardless of the number of salespeople). The platform is adapted and updated according to your needs. Complete visibility on your sales pipeline.
+
+- **Autonomous start**: Once configured, Witty operates without human intervention and begins generating qualified leads.
+
+
+
+## Team
 
 - **[Ilann Joaquim](https://github.com/ilannjoaquim)** — Chief Technology Officer and Founder
 - **[Quentin Courtin](https://github.com/q-klug)** — Business Development
@@ -172,4 +171,4 @@ Un Witty inclut un profil client idéal (ICP) et peut ajouter jusqu'à 1 000 lea
 
 ## Tags SEO
 
-`#AI` `#IA` `#AISDR` `#Automatisation` `#Prospection` `#LeadGeneration` `#Emailing` `#AgentIA` `#AssistantIA` `#Technologie` `#Sales` `#Optimisation` `#Logiciel` `#ColdCall`
+#AI #IA #AISDR #Automation #Prospecting #LeadGeneration #Emailing #AIAgent #AIAssistant #Technology #Sales #Optimization #Software #ColdCall
