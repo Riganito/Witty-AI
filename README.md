@@ -166,9 +166,3 @@ One Witty includes an ideal customer profile (ICP) and can add up to 1,000 quali
 
 - **[Website](https://becomewitty.ai/fr/)**
 - **[Company LinkedIn](https://linkedin.com/company/become-witty)**
-
-
-
-## Tags SEO
-
-#AI #IA #AISDR #Automation #Prospecting #LeadGeneration #Emailing #AIAgent #AIAssistant #Technology #Sales #Optimization #Software #ColdCall
