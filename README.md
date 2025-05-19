@@ -164,8 +164,8 @@ One Witty includes an ideal customer profile (ICP) and can add up to 1,000 quali
 
 ## Contact
 
-- **[Site Web](https://becomewitty.ai/fr/)**
-- **[LinkedIn](https://linkedin.com/company/become-witty)**
+- **[Website](https://becomewitty.ai/fr/)**
+- **[Company LinkedIn](https://linkedin.com/company/become-witty)**
 
 
 
